@@ -1,0 +1,22 @@
+{
+  "name": "DebugStream-Library",
+  "version": "0.1.0",
+  "description": "print Debug messages",
+  "keywords": [
+    "Debugging",
+    "Logging",
+    "Log"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mestrode/DebugStream-Library.git"
+  },
+  "authors": [
+    {
+      "name": "mestrode",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-2.0-only",
+  "dependencies": []
+}
